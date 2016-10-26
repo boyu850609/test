@@ -3,6 +3,6 @@
 
 main()
 {
-      prinntf("123");
+      prinntf("321");
       system<pause>;
             }
