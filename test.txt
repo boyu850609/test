@@ -3,6 +3,6 @@
 
 main()
 {
-      prinntf("948794¨g");
+      prinntf("0857");
       system<pause>;
             }
